@@ -1,0 +1,111 @@
+body {
+background-color:whitesmoke;
+color: white;
+font-family: Playfair display;
+text-align: center;
+font-size: 21px
+}
+
+h1 {
+
+font-family: 'Helvetica'sans-serif ;
+color: black;
+font-size: 90px;
+font-weight: bold;
+letter-spacing: 5px ;
+;
+
+}
+h2 {
+font-family: 'Helvetica', sans-serif;
+color:black;
+font-size: 80px;
+font-weight:bold;
+ }
+
+h3 {
+font-family: 'Helvetica', sans-serif;
+color:white;
+font-size: 35px;
+font-weight:bold;
+ }
+
+#Photodeprofil {
+border-radius: 10px;
+border: 10px solid red;
+text-align: center;
+max-width: 80%;
+}
+
+#logokedge {
+border-radius: 120px;
+border: 5px solid red;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+#logoprepa{
+border-radius: 120px;
+border: 5px solid red;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+#logoperier{
+border-radius: 120px;
+border: 5px solid red;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+.images {
+    display: flex;
+  justify-content: space-between;
+  background-color: silver;
+}
+
+#logoservicecivique {
+    border-radius: 120px;
+border: 5px solid red;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+#logobde{
+    border-radius: 120px;
+border: 5px solid red;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 150px;
+height: 150px;
+}
+
+.container {
+  width: 900px;
+  margin: 40px auto;
+ }
+
+
+
+.card-white {
+  background-color: silver;
+  padding: 40px;
+  border-radius: 5px;
+  margin:20px 0px;
+  text-align:center;
+
+ }
+
